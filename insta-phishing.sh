@@ -154,17 +154,17 @@ function start_phising(){
         read ip
         if [ l_ip != "" ] || [ l_ip != " " ]
         then
-            echo "o" > /dev/null
-        else
             l_ip=$ip
+        else
+            echo "o" > /dev/null
         fi
         echo -e "Please Enter PORT (Default $port): \c"
         read portt
         if [ ip != "" ] || [ ip != " " ]
         then
-            echo "o" > /dev/null
-        else
             port=$portt
+        else
+            echo "o" > /dev/null
         fi
         clear
         kill_server
