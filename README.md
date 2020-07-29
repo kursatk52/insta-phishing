@@ -7,7 +7,7 @@ Create fake instagram page on your computer to get credentials.
 * [x] **git**  => sudo apt-get install git
 * [x] **curl** => sudo apt-get install curl
 * [x] **wget** => sudo apt-get install curl
-* [x] **php**  => ![Php Installation on Linux](https://www.php.net/manual/en/install.unix.debian.php)
+* [x] **php**  => [Php Installation on Linux](https://www.php.net/manual/en/install.unix.debian.php)
 
 
 # Installing Linux/Termux
